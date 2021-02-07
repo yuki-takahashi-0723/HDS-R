@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/HDS-R/static/css/main.774e6909.chunk.css",
+    "main.js": "/HDS-R/static/js/main.39cc8d5e.chunk.js",
+    "main.js.map": "/HDS-R/static/js/main.39cc8d5e.chunk.js.map",
+    "runtime-main.js": "/HDS-R/static/js/runtime-main.c5b237bc.js",
+    "runtime-main.js.map": "/HDS-R/static/js/runtime-main.c5b237bc.js.map",
+    "static/js/2.94968d95.chunk.js": "/HDS-R/static/js/2.94968d95.chunk.js",
+    "static/js/2.94968d95.chunk.js.map": "/HDS-R/static/js/2.94968d95.chunk.js.map",
+    "index.html": "/HDS-R/index.html",
+    "static/css/main.774e6909.chunk.css.map": "/HDS-R/static/css/main.774e6909.chunk.css.map",
+    "static/js/2.94968d95.chunk.js.LICENSE.txt": "/HDS-R/static/js/2.94968d95.chunk.js.LICENSE.txt",
+    "static/media/wheelchair-3948122_1920.4a7f71ea.jpg": "/HDS-R/static/media/wheelchair-3948122_1920.4a7f71ea.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5b237bc.js",
+    "static/js/2.94968d95.chunk.js",
+    "static/css/main.774e6909.chunk.css",
+    "static/js/main.39cc8d5e.chunk.js"
+  ]
+}
